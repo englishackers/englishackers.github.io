@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reto on English Hackers</title>
+    <link>http://example.org/el-mas-util/reto/</link>
+    <description>Recent content in Reto on English Hackers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    
+	<atom:link href="http://example.org/el-mas-util/reto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/fundamentos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conjuguemos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/vocabulario/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conjuguemos/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/metodo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/vocabulario/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/fichas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/traduccion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conjuguemos/vocabulario/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conjuguemos/demostracion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/demostracion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/tutorial-reto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conjuguemos/reto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/el-mas-util/reto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fundamentos/reto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
